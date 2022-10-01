@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\bin\Debug\net6.0\Семина 1.exe
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\bin\Debug\net6.0\Семина 1.deps.json
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\bin\Debug\net6.0\Семина 1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\bin\Debug\net6.0\Семина 1.dll
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\bin\Debug\net6.0\Семина 1.pdb
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.dll
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\refint\Семина 1.dll
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.pdb
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\Семина 1.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Гигбрейнс\Знакомство с языками программирования\Семина 1\obj\Debug\net6.0\ref\Семина 1.dll
